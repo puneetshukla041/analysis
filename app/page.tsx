@@ -180,7 +180,7 @@ export default function LiveDashboard() {
                 <span className="text-[10px] sm:text-[12px] font-extrabold text-[#1D1D1F] uppercase tracking-wider">Live Stream</span>
               </div>
               <p className="text-[#86868B] font-semibold text-[11px] sm:text-[13px] flex items-center gap-1.5">
-                <LuServer size={14} className="text-[#AF52DE] hidden sm:block" /> Offline Mock Data
+                <LuServer size={14} className="text-[#AF52DE] hidden sm:block" /> Online database
               </p>
             </div>
           </div>
